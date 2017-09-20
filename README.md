@@ -20,6 +20,7 @@ node test.js
 ### Setting Up Claudia
 
 ```
+npm init --yes
 npm install claudia --save-dev
 ```
 
